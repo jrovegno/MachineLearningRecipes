@@ -1,0 +1,9 @@
+# Use this file to create a conda environment using:
+# conda create -n <name> --file conda-requirements.txt
+
+# Mandatory dependencies
+scikit-learn>=0.17
+scipy
+
+# Optional dependencies
+pydot-ng>=1.0
